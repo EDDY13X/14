@@ -9,7 +9,9 @@ const gifs = [
     'gifts/gift5.gif',
     'gifts/gift6.gif',
     'gifts/gift7.gif',
-    'gifts/gift8.gif'
+    'gifts/gift8.gif',
+    'gifts/gift9.gif',
+     'gifts/gift10.gif'
     
 ];
 const specificGif = 'gifts/gift0.gif'; // GIF específico para el "Sí"
